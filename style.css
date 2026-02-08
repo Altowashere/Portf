@@ -225,7 +225,7 @@ span {
 
 @keyframes cursor {
   to {
-    border-left: 3px solid rgb(233, 195, 164);
+    border-left: 1.5px solid rgb(233, 195, 164);
   }
 }
 
@@ -275,4 +275,5 @@ span {
     margin-top: 4rem;
   }
 }
+
 
