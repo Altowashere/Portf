@@ -245,6 +245,7 @@ span {
   75.01%,
   100% {
     content: "Software Developer";
+    font-size: 16px;
   }
 }
 
@@ -274,3 +275,4 @@ span {
     margin-top: 4rem;
   }
 }
+
