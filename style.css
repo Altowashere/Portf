@@ -225,7 +225,7 @@ span {
 
 @keyframes cursor {
   to {
-    border-left: 1.5px solid rgb(233, 195, 164);
+    border-left: 3px solid rgb(233, 195, 164);
   }
 }
 
@@ -245,7 +245,6 @@ span {
   75.01%,
   100% {
     content: "Software Developer";
-    font-size: 16px;
   }
 }
 
@@ -275,5 +274,3 @@ span {
     margin-top: 4rem;
   }
 }
-
-
